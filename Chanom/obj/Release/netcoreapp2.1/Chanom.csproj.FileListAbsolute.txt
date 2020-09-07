@@ -1,0 +1,11 @@
+D:\workspace\Project('Chanom');\Chanom\bin\Release\netcoreapp2.1\Chanom.deps.json
+D:\workspace\Project('Chanom');\Chanom\bin\Release\netcoreapp2.1\Chanom.runtimeconfig.json
+D:\workspace\Project('Chanom');\Chanom\bin\Release\netcoreapp2.1\Chanom.runtimeconfig.dev.json
+D:\workspace\Project('Chanom');\Chanom\bin\Release\netcoreapp2.1\Chanom.dll
+D:\workspace\Project('Chanom');\Chanom\bin\Release\netcoreapp2.1\Chanom.pdb
+D:\workspace\Project('Chanom');\Chanom\obj\Release\netcoreapp2.1\Chanom.csprojAssemblyReference.cache
+D:\workspace\Project('Chanom');\Chanom\obj\Release\netcoreapp2.1\Chanom.csproj.CoreCompileInputs.cache
+D:\workspace\Project('Chanom');\Chanom\obj\Release\netcoreapp2.1\Chanom.AssemblyInfoInputs.cache
+D:\workspace\Project('Chanom');\Chanom\obj\Release\netcoreapp2.1\Chanom.AssemblyInfo.cs
+D:\workspace\Project('Chanom');\Chanom\obj\Release\netcoreapp2.1\Chanom.dll
+D:\workspace\Project('Chanom');\Chanom\obj\Release\netcoreapp2.1\Chanom.pdb
